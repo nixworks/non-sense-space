@@ -1,2 +1,1 @@
-# non-sense-space
-нет смысла
+# non sense space
